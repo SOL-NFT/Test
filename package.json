@@ -1,0 +1,9 @@
+{
+  "name": "Test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SOL-NFT/Test.git",
+  "author": "Elbert-Ainstein, darkerhaunter",
+  "license": "MIT",
+  "private": true
+}
